@@ -12,7 +12,7 @@ Utilizing the publicly available SDSS DR16 dataset, we addressed class imbalance
 
 This study investigates the classification of astronomical objects using the SDSS D16 dataset and the impact of resampling techniques. Results reveal that AdaBoost outperforms with the highest precision, recall, and F1 score. Resampling techniques effectively address class imbalance, with SMOTEENN being the most effective. The findings underscore the importance of considering multiple performance metrics in evaluating classifiers, with a focus on resampling techniques to enhance classification accuracy in imbalanced datasets.
 
-![Project Diagram](Plots/Acccuracy.png)
+![Project Diagram](Plots/Accuracy.png)
 ![Project Diagram](Plots/Precision.png)
 ![Project Diagram](Plots/Recall.png)
 ![Project Diagram](Plots/F1.png)
